@@ -11,32 +11,12 @@ Hello, I'm [Aina Najwa], a passionate [Your Profession/Role] based in [Your Loca
 - **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Other Skills:** Project Management, Team Collaboration
 
-## Work Experience
-
-### [Company Name 1]
-*Position: Your Position*
-- Description of your role and achievements.
-
-### [Company Name 2]
-*Position: Your Position*
-- Description of your role and achievements.
-
 ## Education
 
 ### [University of Technology Malaysia]
 *Degree: Bachelor of Computer Science (Bioinformatics)*
 - Graduation Year: 
 - Relevant coursework and achievements.
-
-## Projects
-
-### [Project Name 1]
-- Description of the project and your role.
-- Technologies used: List technologies.
-
-### [Project Name 2]
-- Description of the project and your role.
-- Technologies used: List technologies.
 
 ## Contact
 
