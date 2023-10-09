@@ -15,7 +15,7 @@ Hello, I'm [Aina Najwa], a passionate [Your Profession/Role] based in [Your Loca
 
 ### [University of Technology Malaysia]
 *Degree: Bachelor of Computer Science (Bioinformatics)*
-- Graduation Year: 
+- Graduation Year: 2025
 - Relevant coursework and achievements.
 
 ## Contact
