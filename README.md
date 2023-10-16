@@ -2,21 +2,15 @@
 
 ## About Me
 
-Hello, I'm [Aina Najwa], a passionate [Your Profession/Role] based in [Your Location]. I love [Your Interests/Hobbies] and have a strong background in [Your Field/Area of Expertise].
+Hello, I'm Aina Najwa, a bioinformatic student of UTM.
 
 ## Skills
 
 - **Programming Languages:** Python, JavaScript
-- **Web Technologies:** HTML, CSS, React
+- **Web Technologies:** HTML, CSS
 - **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Other Skills:** Project Management, Team Collaboration
 
-## Education
-
-### [University of Technology Malaysia]
-*Degree: Bachelor of Computer Science (Bioinformatics)*
-- Graduation Year: 2025
-- Relevant coursework and achievements.
 
 ## Contact
 
